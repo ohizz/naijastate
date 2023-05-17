@@ -6,7 +6,7 @@
       "capital": "Umuahia",
       "nolocalgov": 17,
       "appellation": "God's Own State",
-      "political zone": "South East"
+      "geogeopolitical zone": "South East"
     },
 
     {
@@ -15,7 +15,7 @@
       "capital": "Yola",
       "nolocalgov": 20,
       "appellation": "Land of Beauty",
-      "political zone": "North East"
+      "geopolitical zone": "North East"
     },
 
     {
@@ -24,7 +24,7 @@
       "capital": "Uyo",
       "nolocalgov": 31,
       "appellation": "Land of Fulfilment",
-      "political zone": "South South"
+      "geopolitical zone": "South South"
     },
 
     {
@@ -33,7 +33,7 @@
       "capital": "Akwa",
       "nolocalgov": 21,
       "appellation": "The Light of the Nation",
-      "political zone": "South East"
+      "geopolitical zone": "South East"
     },
 
       {
@@ -42,7 +42,7 @@
       "capital": "Bauchi",
       "nolocalgov": 20,
       "appellation": "Home of Peace and Hospitality",
-      "political zone": "North West"
+      "geopolitical zone": "North West"
     },
 
       {
@@ -51,7 +51,7 @@
       "capital": "Yenagoa",
       "nolocalgov": 32,
       "appellation": "The Glory of all Lands",
-      "political zone": "South South"
+      "geopolitical zone": "South South"
     },
       {
       "id":7,
@@ -59,7 +59,7 @@
       "capital": "Makurdi",
       "nolocalgov": 22,
       "appellation": "Food Basket of the Nation",
-      "political zone": "North Central"
+      "geopolitical zone": "North Central"
     },
       {
       "id":8,
@@ -67,7 +67,7 @@
       "capital": "Maiduguri",
       "nolocalgov": 27,
       "appellation": "Home of Peace",
-      "political zone": "North East"
+      "geopolitical zone": "North East"
     },
       {
       "id":9,
@@ -75,7 +75,7 @@
       "capital": "Calabar",
       "nolocalgov": 18,
       "appellation": "The People's Paradise",
-      "political zone": "South South"
+      "geopolitical zone": "South South"
     },
       {
       "id":10,
@@ -83,7 +83,7 @@
       "capital": "Asaba",
       "nolocalgov": 25,
       "appellation": "The Big Heart of the Nation",
-      "political zone": "South South"
+      "geopolitical zone": "South South"
     },
       {
       "id":11,
@@ -91,7 +91,7 @@
       "capital": "Abakaliki",
       "nolocalgov": 12,
       "appellation": "Salt of the Nation",
-      "political zone": "South East"
+      "geopolitical zone": "South East"
     },
       {
       "id":12,
@@ -99,7 +99,7 @@
       "capital": "Benin City",
       "nolocalgov": 18,
       "appellation": "The Heart Beat of the Nation",
-      "political zone": "South South"
+      "geopolitical zone": "South South"
     },
       {
       "id":13,
@@ -107,7 +107,7 @@
       "capital": "Ado-Ekiti",
       "nolocalgov": 16,
       "appellation": "The Fountain of Knowledge",
-      "political zone": "South West"
+      "geopolitical zone": "South West"
     },
       {
       "id":14,
@@ -115,7 +115,7 @@
       "capital": "Enugu",
       "nolocalgov": 17,
       "appellation": "Coal City Sate",
-      "political zone": "South East"
+      "geopolitical zone": "South East"
     },
       {
       "id":15,
@@ -123,7 +123,7 @@
       "capital": "Gombe",
       "nolocalgov": 11,
       "appellation": "Jewel of the Savannah",
-      "political zone": "North East"
+      "geopolitical zone": "North East"
     },
       {
       "id":16,
@@ -131,7 +131,7 @@
       "capital": "Owerri",
       "nolocalgov": 27,
       "appellation": "Eastern Heart Land",
-      "political zone": "South East"
+      "geopolitical zone": "South East"
     },
       {
       "id":17,
@@ -139,7 +139,7 @@
       "capital": "Dutse",
       "nolocalgov": 27,
       "appellation": "New World",
-      "political zone": "North West"
+      "geopolitical zone": "North West"
     },
       {
       "id":18,
@@ -147,7 +147,7 @@
       "capital": "Kaduna",
       "nolocalgov": 23,
       "appellation": "Liberal Sate",
-      "political zone": "South West"
+      "geopolitical zone": "South West"
     },
       {
       "id":19,
@@ -155,7 +155,7 @@
       "capital": "Kano",
       "nolocalgov": 44,
       "appellation": "Centre of Commerce",
-      "political zone": "Norh West"
+      "geopolitical zone": "Norh West"
     },
       {
       "id":20,
@@ -163,7 +163,7 @@
       "capital": "Katsina",
       "nolocalgov": 34,
       "appellation": "State of Hospitality",
-      "political zone": "North Central"
+      "geopolitical zone": "North Central"
     },
       {
       "id":21,
@@ -171,7 +171,7 @@
       "capital": "Birnin Kebbi",
       "nolocalgov": 22,
       "appellation": "Land of Equity",
-      "political zone": "North West"
+      "geopolitical zone": "North West"
     },
       {
       "id":22,
@@ -179,7 +179,7 @@
       "capital": "Lokoja",
       "nolocalgov": 20,
       "appellation": "The Confluence State",
-      "political zone": "North Central"
+      "geopolitical zone": "North Central"
     },
          {
       "id":23,
@@ -187,7 +187,7 @@
       "capital": "Ilorin",
       "nolocalgov": 16,
       "appellation": "State of Harmony",
-      "political zone": "North Central"
+      "geopolitical zone": "North Central"
     },
          {
       "id":24,
@@ -195,7 +195,7 @@
       "capital": "Ikeja",
       "nolocalgov": 20,
       "appellation": "Centre of Excellence",
-      "political zone": "South West"
+      "geopolitical zone": "South West"
     },
          {
       "id":25,
@@ -203,7 +203,7 @@
       "capital": "Lafia",
       "nolocalgov": 13,
       "appellation": "Home of Solid Mineral",
-      "political zone": "North Central"
+      "geopolitical zone": "North Central"
     },
          {
       "id":26,
@@ -211,7 +211,7 @@
       "capital": "Minna",
       "nolocalgov": 25,
       "appellation": "The Power State",
-      "political zone": "North Central"
+      "geopolitical zone": "North Central"
     },
          {
       "id":27,
@@ -219,7 +219,7 @@
       "capital": "Abeokuta",
       "nolocalgov": 19,
       "appellation": "The Gateway State",
-      "political zone": "South West"
+      "geopolitical zone": "South West"
     },
          {
       "id":28,
@@ -227,7 +227,7 @@
       "capital": "Akure",
       "nolocalgov": 18,
       "appellation": "The Sunshine State",
-      "political zone": "South West"
+      "geopolitical zone": "South West"
     },
          {
       "id":29,
@@ -235,7 +235,7 @@
       "capital": "Osogbo",
       "nolocalgov": 28,
       "appellation": "State of Living Spring",
-      "political zone": "South West"
+      "geopolitical zone": "South West"
     },
          {
       "id":30,
@@ -243,7 +243,7 @@
       "capital": "Ibadan",
       "nolocalgov": 32,
       "appellation": "Pace Setter State",
-      "political zone": "South West"
+      "geopolitical zone": "South West"
     },
          {
       "id":31,
@@ -251,7 +251,7 @@
       "capital": "Jos",
       "nolocalgov": 17,
       "appellation": "Home of Peace and Tourism",
-      "political zone": "North Central"
+      "geopolitical zone": "North Central"
     },
          {
       "id":32,
@@ -259,7 +259,7 @@
       "capital": "Portharcourt",
       "nolocalgov": 22,
       "appellation": "Treasure Base of the Nation",
-      "political zone": "South South"
+      "geopolitical zone": "South South"
     },
          {
       "id":33,
@@ -267,7 +267,7 @@
       "capital": "Sokoto",
       "nolocalgov": 22,
       "appellation": "Seat of the Caliphate",
-      "political zone": "North West"
+      "geopolitical zone": "North West"
     },
          {
       "id":34,
@@ -275,7 +275,7 @@
       "capital": "Jalingo",
       "nolocalgov": 15,
       "appellation": "Nature's Gift of the Nation",
-      "political zone": "North East"
+      "geopolitical zone": "North East"
     },
          {
       "id":35,
@@ -283,7 +283,7 @@
       "capital": "Damaturu",
       "nolocalgov": 17,
       "appellation": "The Young Shall Grow",
-      "political zone": "North East"
+      "geopolitical zone": "North East"
     },
          {
       "id":36,
@@ -291,7 +291,7 @@
       "capital": "Gusua",
       "nolocalgov": 14,
       "appellation": "Farming is our Pride",
-      "political zone": "North West"
+      "geopolitical zone": "North West"
     },
      {
       "id":37,
@@ -299,7 +299,7 @@
       "capital": "FCT",
       "nolocalgov": 6,
       "appellation": "Centre of Unity",
-      "political zone": "North Central"
+      "geopolitical zone": "North Central"
     }
 
   ]
